@@ -101,3 +101,10 @@ Before you begin, ensure you have met the following requirements:
 ```bash
 git clone https://github.com/yourusername/promocato_app.git
 cd promocato_app
+```
+## Screenshot
+
+Here is a preview of the application:
+
+![Application Screenshot](./assets/app/1.png)
+![Application Screenshot](./assets/app/2.png)
