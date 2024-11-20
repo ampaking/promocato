@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  promocato_app:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - DISPLAY=${DISPLAY}
+
+    working_dir: /app
